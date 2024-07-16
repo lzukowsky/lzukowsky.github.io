@@ -1,0 +1,24 @@
+{   
+    "homenav": "Strona Główna",
+    "aboutnav": "O mnie",
+    "about": "O mnie",
+    "desc": "Szanowni Państwo,<br><br> piszę do Państwa ponieważ chciałbym dołączyć do zespołu jako programista PHP.<br><br> Chociaż nie ukończyłem jeszcze studiów, planuję wznowić naukę na WSB w Gdańsku od października i jestem niezwykle zmotywowany, aby zdobyć doświadczenie zawodowe. <br><br>Moje zainteresowanie programowaniem rozpoczęło się kilka lat temu i od tego czasu rozwijam swoje umiejętności. Samodzielnie nauczyłem się PHP, HTML, CSS, JavaScript oraz baz danych MySQL poprzez kursy online i realizację własnych projektów. Jednym z moich większych projektów było stworzenie aplikacji  sklepu internetowego, która wymagała integracji frontendu z backendem przy użyciu PHP i MySQL. Projekt ten pozwolił mi zdobyć praktyczne umiejętności i zrozumieć pełen cykl tworzenia aplikacji webowych.<br><br> Od zawsze fascynowało mnie programowanie, a język PHP wybrałem ze względu na jego wszechstronność i szerokie zastosowanie w tworzeniu dynamicznych aplikacji internetowych. PHP pozwala mi tworzyć zarówno proste strony internetowe, jak i rozbudowane systemy zarządzania treścią.<br><br> Szczególnie cenię sobie pracę z frameworkiem Symfony, który ułatwia tworzenie skalowalnych i bezpiecznych aplikacji. Dzięki pracy z Symfony uczę się dobrych praktyk programistycznych, takich jak wzorce projektowe i testowanie aplikacji, co przekłada się na jakość mojej pracy. Korzystam również z pomocy społeczności skoncentrowanej wokół tego frameworka oraz samej dokumentacji, co pozwala mi  sprawnie rozwiązywać problemy. <br><br>Poza programowaniem, moje pasje obejmują świat gier komputerowych i kalistenikę. Gry komputerowe są dla mnie nie tylko formą rozrywki, ale także źródłem inspiracji. Kalistenika z kolei uczy mnie dyscypliny, wytrwałości oraz systematycznego podejścia do osiągania celów. <br><br>Jestem przekonany, że mój zapał, motywacja oraz gotowość do nauki i rozwoju uczynią mnie wartościowym członkiem zespołu. Z niecierpliwością czekam na okazję, aby omówić moją kandydaturę podczas rozmowy kwalifikacyjnej. <br><br>Dziękuję za poświęcenie czasu na zapoznanie się z moim podaniem.",
+    "projectsnav":"Moje projekty",
+    "projects":"Moje projekty",
+    "contactnav":"Kontakt",
+    "contact":"Kontakt",
+    "skill":"Umiejętności",
+    "hello":"Witaj!",
+    "name":"Jestem Łukasz Żukowski",
+    "dev":"Początkujący programista PHP",
+    "project1":"Sklep online przy pomocy Symfony ",
+    "courses":"Kursy i szkolenia",
+    "education":"Edukacja",
+    "uni":"10.2020 - 06.2023 Uniwersytet w Białymstoku kierunek Informatyka. Studia przerwane."
+
+
+
+
+
+
+}

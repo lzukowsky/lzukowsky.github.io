@@ -1,0 +1,24 @@
+{   
+    "homenav": "Home",
+    "aboutnav": "About me",
+    "about": "About me",
+    "desc": "I am writing to you because I would like to join your team as a PHP developer. Although I have not yet completed my studies, I plan to resume my education at WSB in Gdańsk starting in October, and I am highly motivated to gain professional experience.<br><br> My interest in programming began a few years ago, and since then I have been developing my skills. I taught myself PHP, HTML, CSS, JavaScript, and MySQL databases through online courses and by working on my own projects. One of my larger projects involved creating an online store application that required integrating the frontend with the backend using PHP and MySQL. This project allowed me to gain practical skills and understand the full cycle of web application development.<br><br> I have always been fascinated by programming, and I chose PHP because of its versatility and wide application in creating dynamic web applications. PHP allows me to create both simple websites and complex content management systems.<br><br> I particularly value working with the Symfony framework, which facilitates the creation of scalable and secure applications. Working with Symfony, I learn good programming practices such as design patterns and application testing, which translates into the quality of my work. I also benefit from the community focused around this framework and the documentation itself, which allows me to solve problems efficiently.<br> Besides programming, my passions include the world of computer games and calisthenics. Computer games are not only a form of entertainment for me but also a source of inspiration. Calisthenics, on the other hand, teaches me discipline, perseverance, and a systematic approach to achieving goals.<br><br> I am convinced that my enthusiasm, motivation, and willingness to learn and develop will make me a valuable member of the team. I look forward to discussing my application during an interview. <br><br>Thank you for taking the time to review my application.",
+    "projectsnav":"Projects",
+    "projects":"My Projects",
+    "contactnav":"Contact",
+    "contact":"Contact",
+    "skill":"Skills",
+    "hello":"Hi!",
+    "name":"I'm Łukasz Żukowski",
+    "dev":"Beginner PHP developer",
+    "project1":"Online Shop with Symfony",
+    "courses":"Training Courses",
+    "education":"Education",
+    "uni":"10.2020 - 06.2023 University of Białystok Field of study: Computer science. Studies discontinued"
+
+
+
+
+
+
+}
