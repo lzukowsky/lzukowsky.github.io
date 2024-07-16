@@ -1,0 +1,155 @@
+*{
+    font-family: 'Montserrat', sans-serif;
+}
+body{
+    background-image: url('images/grey-background.avif');
+    color: aliceblue !important;
+}
+.carouselHero{
+    height: 100%;
+    width: 70%;
+    margin: auto;
+}
+.carousel-item p{
+    color: white;
+    text-shadow:
+    -1px -1px 0 #000,
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+    1px 1px 0 #000;
+   
+}
+.carousel-item h5 a {
+    color: black;
+    text-decoration: none;
+    font-size: 40px;
+    background-color: grey;
+    border-radius: 10px;
+    padding: 5px;
+
+}
+
+.projects h1{
+    margin-top: 100px;
+    text-align: center;
+    
+}
+.about-me h1, h3{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+.about-me h3{
+    margin-top: 100px;
+}
+.about-me h1{
+    margin-top: 100px;
+}
+.about-me p{
+    margin-left: 10px;
+    margin-right: 10px;
+    text-align: center;
+}
+.about-me table{
+    margin: auto;
+}
+.about-me td{
+    padding-left: 75px;
+    padding-bottom: 5px;
+}
+body hr{
+    width: 68%;
+    margin: auto;
+    color: rgb(255, 254, 254);
+}
+.about-me ul{
+
+    list-style-type: none;
+    text-align: center;
+}
+
+.contact h1{
+    margin-top: 100px;
+    text-align: center;
+}
+.contact p{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.contact td{
+    padding: 10px;
+}
+.contact table{
+    margin: auto;
+}
+.contact a{
+    text-decoration: none;
+    color: lightblue !important;
+}
+.contact a:hover{
+    text-decoration: none;
+    color: lightgreen !important;
+}
+.contact img{
+    width: 20px;
+    padding-bottom: 3px;
+    margin-right: 3px;
+}
+
+.photo img{
+    width: 100%;
+    filter: blur(4px) brightness(0.4);
+    
+
+}
+.photo {
+    position: relative;
+    text-align: center;
+    color: white;
+  }
+.centered1 {
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 15.9vw;
+    text-shadow: 5px 5px 3px black;
+
+}
+.centered2 {
+    position: absolute;
+    top: 55%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 4vw;
+    text-shadow: 5px 5px 3px black;
+
+}
+.centered3 {
+    position: absolute;
+    top: 65%;
+    left:50%;
+    transform: translate(-50%, -50%);
+    font-size: 3vw;
+    text-shadow: 5px 5px 3px black;
+}
+.cont p{
+    color: lightblue !important;
+}
+.cont p{
+    text-align: center;
+}
+.cont a{
+    text-decoration: none;
+    color: lightblue !important;
+}
+.cont a:hover{
+    text-decoration: none;
+    color: lightgreen !important;
+}
+.cont li{
+    display:inline-block;
+    margin-right: 15px;
+    margin-top: 50px;
+    color: lightblue !important;
+}
